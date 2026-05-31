@@ -20,7 +20,7 @@
 <p align="left">
 
 
-<a href="(https://www.linkedin.com/in/dharshan-s-p-56a530275/)">
+<a href="https://www.linkedin.com/in/dharshan-s-p-56a530275/">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
