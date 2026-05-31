@@ -19,15 +19,12 @@
 
 <p align="left">
 
-<a href="https://github.com/dharshan">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
 
-<a href="https://www.linkedin.com/">
+<a href="(https://www.linkedin.com/in/dharshan-s-p-56a530275/)">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:s.p.darshan0417@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
