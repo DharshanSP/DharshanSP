@@ -70,19 +70,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏟️ Sports Ground Management System
-- Django-based booking platform
-- Slot management
-- User authentication
-- Admin dashboard
 
-### 🚗 Smart Urban Parking System
-- Node.js + MongoDB
-- Real-time parking slot management
-
-### 🏥 Hospital Management System
-- DBMS Mini Project
-- SQL Queries, Views, Triggers & Reports
 
 ---
 
