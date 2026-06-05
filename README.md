@@ -48,31 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharshan&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-
-
----
 
 ## 📌 Current Goals
 
@@ -86,14 +61,6 @@
 
 ---
 
-## 💡 Quote
 
-> "First, solve the problem. Then, write the code."
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dharshan&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
