@@ -49,19 +49,4 @@
 ---
 
 
-## 📌 Current Goals
-
-- ✅ Master Git & GitHub
-- 🔄 Learn Docker
-- 🔄 Learn Kubernetes
-- 🔄 AWS Certification
-- 🔄 Advanced Java
-- 🔄 Open Source Contributions
-- 🔄 learn Java, DSA and System Design
-- 🎯 Become a DevOps & Cloud Engineer
-
----
-
-
-
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
