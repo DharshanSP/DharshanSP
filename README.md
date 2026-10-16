@@ -5,13 +5,8 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- ☁️ Learning AWS, Kubernetes, Docker & DevOps
-- 🤖 Interested in AIML and Cloud Computing
-- 💻 Passionate about Open Source
-- 📚 Currently learning Java, DSA and System Design
-- 🌱 Building projects to solve real-world problems
-- ⚡ Goal: Become a Cloud & DevOps Engineer
+ Building projects to solve real-world problems
+
 
 ---
 
